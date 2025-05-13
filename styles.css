@@ -1,0 +1,32 @@
+h1 {
+    color: blue;
+    display: inline;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 3%;
+}
+h4 {
+    align-items: center;
+    font-style: italic;
+    color: rgb(0, 72, 255);
+}
+body {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+}
+hr {
+    background-color: blue;
+    height: 1px;
+}
+.heading {
+    padding-left: 3%;
+    font-weight: bold;
+}
+.italics{
+    padding-left: 3%;
+    font-style: italic;
+}
+.right{
+    float: right;
+}
